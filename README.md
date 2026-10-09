@@ -1,196 +1,146 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     DONY KURNIAWAN // GITHUB PROFILE README
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!--
+  GitHub profile README — github.com/kurniawan-Donn
+  Design system: charcoal #11151B badges · cyan #00D9FF icons · restrained layout.
+  Items marked TODO need your input before publishing.
+-->
 
 <div align="center">
 
-<img src="./assets/banner-dony.jpg" alt="Dony Kurniawan — Secure Dev & IT Audit" width="100%" />
+<img src="./assets/banner-dony.jpg" alt="Dony Kurniawan — IT Audit, Cybersecurity, and Software Development" width="100%" />
 
+# Dony Kurniawan
+
+**IT Audit · IT Governance · Cybersecurity**
+
+Final-year D3 Information Technology student at Politeknik Negeri Madiun, Indonesia 🇮🇩
 <br />
+Building systems that are secure by design and auditable by default.
 
-<!-- ═══════════════════════════ INTRO ═══════════════════════════ -->
-
-### `> whoami`
-
-**Dony Kurniawan** — Final-year Information Technology student preparing for a career in **IT Audit**, **Cybersecurity**, and **Modern Web Development**.
-
-Currently pursuing a **D3 in Information Technology** at **Politeknik Negeri Madiun** 🇮🇩
-Focused on building systems that are **secure by design**, **auditable by default**, and **useful in reality**.
-
-<br />
-
-<!-- ═══════════════════════════ SOCIALS ═══════════════════════════ -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-dony.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donykurniawan128@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurniawan-Donn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11151B?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portofolio-dony.vercel.app)
+[![Email](https://img.shields.io/badge/Email-11151B?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:donykurniawan128@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-11151B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/kurniawan-Donn)
+<!-- TODO: add LinkedIn once the real URL is available:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151B?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/YOUR-REAL-USERNAME)
+-->
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## About
 
-<div align="center">
+> A technology enthusiast focused on understanding systems, identifying risks, and building practical solutions through IT audit, security, and software development.
 
-### `> tech --list`
+I'm preparing for a career in IT audit, where the core question is whether a system has the right controls and whether those controls actually work. My other interests support that goal:
 
-**» Languages**
-<br />
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **IT audit and governance** — evaluating controls, compliance, and risk.
+- **Cybersecurity** — understanding threats and the technical safeguards that counter them.
+- **Software development** — knowing how applications are really built, which makes it easier to see where controls belong and where they fail.
 
-**» Frameworks & Tools**
-<br />
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**» Databases**
-<br />
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**» IT & Audit**
-<br />
-![IT Audit](https://img.shields.io/badge/IT_Audit-06b6d4?style=flat-square&logo=shield&logoColor=white)
-![IT Governance](https://img.shields.io/badge/IT_Governance-06b6d4?style=flat-square&logo=checkmarx&logoColor=white)
-![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-06b6d4?style=flat-square&logo=probot&logoColor=white)
-![System Analysis](https://img.shields.io/badge/System_Analysis-06b6d4?style=flat-square&logo=diagramsdotnet&logoColor=white)
-
-</div>
+**Principles:** *Secure by design, auditable by default.* · *Build to understand. Create to solve.*
 
 ---
 
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
+## Technical Skills
 
-<div align="center">
+**Languages**
+<br />
+![PHP](https://img.shields.io/badge/PHP-11151B?style=flat-square&logo=php&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-11151B?style=flat-square&logo=python&logoColor=00D9FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-11151B?style=flat-square&logo=kotlin&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-11151B?style=flat-square&logo=javascript&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-11151B?style=flat-square&logo=typescript&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-11151B?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-11151B?style=flat-square&logo=css3&logoColor=00D9FF)
 
-### `> projects --featured`
+**Frameworks and tools**
+<br />
+![Laravel](https://img.shields.io/badge/Laravel-11151B?style=flat-square&logo=laravel&logoColor=00D9FF)
+![Next.js](https://img.shields.io/badge/Next.js-11151B?style=flat-square&logo=nextdotjs&logoColor=00D9FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-11151B?style=flat-square&logo=tailwindcss&logoColor=00D9FF)
+![Android Studio](https://img.shields.io/badge/Android_Studio-11151B?style=flat-square&logo=androidstudio&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-11151B?style=flat-square&logo=git&logoColor=00D9FF)
+![Figma](https://img.shields.io/badge/Figma-11151B?style=flat-square&logo=figma&logoColor=00D9FF)
+![VS Code](https://img.shields.io/badge/VS_Code-11151B?style=flat-square&logo=visualstudiocode&logoColor=00D9FF)
 
-</div>
+**Databases and backend services**
+<br />
+![MySQL](https://img.shields.io/badge/MySQL-11151B?style=flat-square&logo=mysql&logoColor=00D9FF)
+![SQLite](https://img.shields.io/badge/SQLite-11151B?style=flat-square&logo=sqlite&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11151B?style=flat-square&logo=postgresql&logoColor=00D9FF)
+![Firebase](https://img.shields.io/badge/Firebase-11151B?style=flat-square&logo=firebase&logoColor=00D9FF)
+![Supabase](https://img.shields.io/badge/Supabase-11151B?style=flat-square&logo=supabase&logoColor=00D9FF)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Audit, governance, and security interests:** IT audit · IT governance · risk assessment · system analysis
 
-### 🔐 [Regulation Audit Assistant](https://github.com/kurniawan-Donn)
+<sub>Next.js, TypeScript, and Supabase are areas I'm actively learning.</sub>
 
-> AI-assisted tool that extracts requirements from public IT regulations and organizes them into structured audit procedures.
+---
 
-`Python` `AI` `PDF Processing` `Excel` `IT Audit`
+## Featured Projects
 
-**Status:** 🧪 Experimental
+### Regulation Audit Assistant
 
-</td>
-<td width="50%" valign="top">
+**Status:** Experimental
 
-### 📱 [LumiNote](https://github.com/kurniawan-Donn)
+**The problem:** Public IT regulations are long documents, and turning them into audit procedures by hand is slow and repetitive.
 
-> Offline-first Android app for notes and tasks. Built to work fully without internet — designed for real-world constraints.
+**The approach:** An exploration of using Python and AI-assisted extraction to pull requirements out of regulatory documents and organize them into structured audit procedures, with Excel as the intended output format. It is still exploratory, and any AI-extracted result would need human review before it is used in a real audit.
 
-`Android` `Room DB` `Kotlin`
+`Python` `AI-assisted extraction` `PDF processing` `Excel`
 
-**Status:** ✅ Complete
+<!-- TODO: add the verified repository link here:
+[View repository →](https://github.com/kurniawan-Donn/REPLACE-WITH-REPO-NAME)
+Optionally add a short "Implemented / Planned" list so readers can see exactly what works today. -->
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Software Development Projects
 
-### 🎲 [Spinly](https://github.com/kurniawan-Donn)
+#### LumiNote
+**Android · Complete**
 
-> Multiplayer random spinner with real-time room sync. Multiple users join via room code and see the same result instantly.
+A notes and tasks app built offline-first, so it works fully without an internet connection.
 
-`Android` `Firebase` `Firestore` `Auth`
+`Kotlin` `Room` `Android`
 
-**Status:** ✅ Complete
+<!-- TODO: add verified repository link for LumiNote -->
 
-</td>
-<td width="50%" valign="top">
+#### Spinly
+**Android · Complete**
 
-### 🌐 [Internship Program CMS](https://github.com/kurniawan-Donn)
+A multiplayer random spinner. Users join a room with a room code and see the same result in real time.
 
-> Web-based CMS for managing internship program content, galleries, alumni data, and FAQs.
+`Kotlin` `Firebase Authentication` `Firestore`
+
+<!-- TODO: add verified repository link for Spinly; confirm the language is Kotlin -->
+
+#### Internship Program CMS
+**Web · Complete**
+
+A web-based content management system for internship program information, galleries, alumni data, and FAQs.
 
 `Laravel` `PHP` `MySQL`
 
-**Status:** ✅ Complete
+<!-- TODO: add verified repository link for Internship Program CMS -->
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🚀 [**See All Projects →**](https://github.com/kurniawan-Donn?tab=repositories)
-
-</div>
+[Browse all repositories →](https://github.com/kurniawan-Donn?tab=repositories)
 
 ---
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+## Currently Learning
 
-<div align="center">
-
-### `> stats --live`
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kurniawan-Donn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniawan-Donn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=06b6d4&text_color=e2e8f0&langs_count=8" height="180" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kurniawan-Donn&theme=tokyonight&hide_border=true&background=0a0a0a&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" height="180" />
-
-</div>
+- **IT audit frameworks** — ISO 27001 and COBIT 2019
+- **Cybersecurity** — network analysis and threat modeling
+- **Python automation** — scripts for audit and document processing
+- **Responsible AI-assisted workflows** — using AI as a tool, with human judgment kept in the loop
+- **Modern web stack** — Next.js, TypeScript, and Supabase
 
 ---
 
-<!-- ═══════════════════════════ CURRENTLY LEARNING ═══════════════════════════ -->
+## Get in Touch
 
-<div align="center">
+I'm open to internship opportunities, entry-level IT roles, and technical collaboration, especially in IT audit, security, and risk-related work.
 
-### `> learning --now`
-
-</div>
-
-```yaml
-currently_learning:
-  - 📋 IT Audit Frameworks .......... ISO 27001, COBIT 2019
-  - 🔐 Cybersecurity ............... Network analysis, threat modeling
-  - 🐍 Python Automation ........... Scripts for audit & data processing
-  - 🤖 AI for Audit ................ Responsible AI-assisted workflows
-  - ⚙️  Modern Web Stack ........... Next.js, TypeScript, Supabase
-
-philosophy:
-  - "Secure by design, auditable by default."
-  - "Build to understand. Create to solve."
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ --><div align="center">
-
-> connect --open
-
-Open to: Internship opportunities · Entry-level IT roles · Tech collaboration
-
-https://img.shields.io/badge/%E2%86%92_Visit_My_Portfolio-06b6d4?style=for-the-badge
-https://img.shields.io/badge/%E2%86%92_Send_Email-06b6d4?style=for-the-badge
-
-<img src="https://komarev.com/ghpvc/?username=kurniawan-Donn&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Profile views" />
-
-<sub>© 2026 Dony Kurniawan · Built with curiosity and code</sub> </div> ```
+- Portfolio: [portofolio-dony.vercel.app](https://portofolio-dony.vercel.app)
+- Email: [donykurniawan128@gmail.com](mailto:donykurniawan128@gmail.com)
+- GitHub: [@kurniawan-Donn](https://github.com/kurniawan-Donn)
+<!-- TODO: add LinkedIn link when the real profile URL is available -->
