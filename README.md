@@ -8,7 +8,7 @@
   2. Add the real LinkedIn URL (see the Contact section).
   3. Make sure ./assets/banner-dony.jpg exists in this repository.
 -->
-
+<div align="center">
 # Dony Kurniawan
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=640&height=36&lines=IT+Audit+%26+IT+Governance;Cybersecurity+%26+Risk+Assessment;Software+Development+%26+Python+Automation" alt="Animated text cycling through: IT Audit and IT Governance, Cybersecurity and Risk Assessment, Software Development and Python Automation" />
