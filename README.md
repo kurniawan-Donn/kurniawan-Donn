@@ -234,7 +234,7 @@ flowchart LR
 
 I'm open to **internships, entry-level IT roles, and technical collaboration**, especially in IT audit, governance, cybersecurity, and risk-related work. If you're working on something in those areas, I'd be glad to hear from you.
 
-- **Portfolio:** [portofolio-dony.vercel.app](https://portofolio-dony.vercel.app)
+- **Portfolio:** [portofolio-dony.vercel.app](https://portofoli-dony.vercel.app/)
 - **Email:** [donykurniawan128@gmail.com](mailto:donykurniawan128@gmail.com)
 - **GitHub:** [@kurniawan-Donn](https://github.com/kurniawan-Donn)
 <!-- TODO: add LinkedIn once the real URL is known:
