@@ -20,7 +20,7 @@ I like understanding how systems work, where risks emerge, and how practical con
 
 [About](#about) · [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [Learning](#learning-roadmap) · [Contact](#get-in-touch)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-11151B?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portofolio-dony.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-11151B?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portofoli-dony.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-11151B?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:donykurniawan128@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-11151B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/kurniawan-Donn)
 
