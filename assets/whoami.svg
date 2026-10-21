@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="364" viewBox="0 0 880 364" role="img" aria-label="Dony Kurniawan profile summary in a terminal window">
+  <title>Dony Kurniawan profile summary in a terminal window</title>
+  <style>
+    text { font-family: "JetBrains Mono", "Fira Code", Consolas, "DejaVu Sans Mono", monospace; font-size: 15px; }
+    .k { fill: #00D9FF; }
+    .v { fill: #F2F0E9; }
+    .p { fill: #70E1A1; }
+    .c { fill: #9299A5; }
+    .l { animation: in .35s ease-out both; }
+    .cur { animation: blink 1s steps(1) infinite; animation-delay: 2.12s; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l, .cur { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="363" rx="12" fill="#11151B" stroke="#232A33"/>
+  <path d="M12.5 0.5h855a12 12 0 0 1 12 12v27.5h-879v-27.5a12 12 0 0 1 12-12z" fill="#080A0D"/>
+  <line x1="0.5" y1="40" x2="879.5" y2="40" stroke="#232A33"/>
+  <circle cx="24" cy="20.5" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="20.5" r="6" fill="#FEBC2E"/>
+  <circle cx="64" cy="20.5" r="6" fill="#28C840"/>
+  <text x="440" y="25.5" text-anchor="middle" class="c" style="font-size:13px">dony@audit: ~</text>
+  <text x="28" y="74"><tspan class="p">$</tspan><tspan class="v"> cat ~/profile.yml</tspan></text>
+  <text class="l" style="animation-delay:0.50s" x="28" y="100"><tspan class="k">name:</tspan><tspan x="143" class="v">Dony Kurniawan</tspan></text>
+  <text class="l" style="animation-delay:0.68s" x="28" y="126"><tspan class="k">focus:</tspan><tspan x="143" class="v">IT audit · IT governance · GRC</tspan></text>
+  <text class="l" style="animation-delay:0.86s" x="28" y="152"><tspan class="k">supporting:</tspan><tspan x="143" class="v">cybersecurity · risk assessment · Python automation</tspan></text>
+  <text class="l" style="animation-delay:1.04s" x="28" y="178"><tspan class="k">education:</tspan><tspan x="143" class="v">D3 Information Technology @ Politeknik Negeri Madiun</tspan></text>
+  <text class="l" style="animation-delay:1.22s" x="28" y="204"><tspan class="k">experience:</tspan><tspan x="143" class="v">Intern, Consultant Division @ PT Pilar Teknotama Sinergi</tspan></text>
+  <text class="l" style="animation-delay:1.40s" x="28" y="230"><tspan class="k">location:</tspan><tspan x="143" class="v">Yogyakarta, Indonesia (WIB, UTC+7)</tspan></text>
+  <text class="l" style="animation-delay:1.58s" x="28" y="256"><tspan class="k">open_to:</tspan><tspan x="143" class="v">IT Audit Intern · GRC / IT Risk Analyst · Junior IT Auditor</tspan></text>
+  <text class="l" style="animation-delay:1.76s" x="28" y="282"><tspan class="k">available:</tspan><tspan x="143" class="v">now (from October 2026)</tspan></text>
+  <text class="l" style="animation-delay:1.94s" x="28" y="308"><tspan class="k">motto:</tspan><tspan x="143" class="v">&quot;Secure by design, auditable by default.&quot;</tspan></text>
+  <text class="l" style="animation-delay:2.12s" x="28" y="334"><tspan class="p">$</tspan></text>
+  <rect class="cur" x="46" y="320" width="9" height="18" fill="#00D9FF"/>
+</svg>
