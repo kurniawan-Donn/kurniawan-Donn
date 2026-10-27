@@ -7,9 +7,7 @@
 
 <sub>[English](./README.md) · **Bahasa Indonesia**</sub>
 
-<img src="./assets/banner-id.svg" alt="Dony Kurniawan — Audit TI, Tata Kelola TI, Keamanan Siber. Secure by Design. Auditable by Default." width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=520&height=32&lines=Antusias+audit+TI;Pembuat+tools+Python;Pembelajar+keamanan+siber" alt="Antusias audit TI · Pembuat tools Python · Pembelajar keamanan siber" height="32" />
+<img src="./assets/banner-id.svg" alt="Dony Kurniawan — antusias audit TI, pembuat tools Python, pembelajar keamanan siber. Audit TI, Tata Kelola TI, Keamanan Siber. Secure by Design. Auditable by Default." width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-11151B?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portofoli-dony.vercel.app)
 [![Proyek GitHub](https://img.shields.io/badge/Proyek_GitHub-11151B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/kurniawan-Donn?tab=repositories)
@@ -29,18 +27,29 @@
 <table>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/regulation-audit-assistant"><img src="./assets/project-raa.svg" alt="Regulation Audit Assistant: regulasi diubah menjadi kertas kerja audit" width="100%" /></a>
+<a href="https://github.com/kurniawan-Donn/Regulation-Audit-Assistant"><img src="./assets/project-raa.svg" alt="Regulation Audit Assistant: regulasi dibaca lalu diubah menjadi kertas kerja audit yang butirnya dicentang" width="100%" /></a>
 </td>
 <td valign="middle">
 <h3>Regulation Audit Assistant</h3>
 <p>Mengubah regulasi perbankan Indonesia menjadi kertas kerja audit TI. Dibantu AI, dengan setiap referensi pasal dicek terhadap teks sumber.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>Gemini API</code></p>
-<p><a href="https://github.com/kurniawan-Donn/regulation-audit-assistant">Repository →</a></p>
+<p><a href="https://github.com/kurniawan-Donn/Regulation-Audit-Assistant">Repository →</a></p>
 </td>
 </tr>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/docxlint-app"><img src="./assets/project-docxlint.svg" alt="DocxLint: dokumen Word dengan salah eja yang ditandai dan koreksi yang disetujui" width="100%" /></a>
+<a href="https://github.com/kurniawan-Donn/pilara-pitsi"><img src="./assets/project-pilara.svg" alt="PILARA: entri logbook disetujui dan setiap aksi tercatat di log aktivitas" width="100%" /></a>
+</td>
+<td valign="middle">
+<h3>PILARA</h3>
+<p>Sistem manajemen magang PT Pilar Teknotama Sinergi: pendaftaran, logbook harian, absensi, dan penilaian. Dilengkapi akses berbasis peran, log aktivitas, dan surat yang bisa diverifikasi.</p>
+<p><code>Laravel</code> <code>PHP</code> <code>Tailwind CSS</code></p>
+<p><a href="https://github.com/kurniawan-Donn/pilara-pitsi">Repository →</a></p>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://github.com/kurniawan-Donn/docxlint-app"><img src="./assets/project-docxlint.svg" alt="DocxLint: kata yang salah eja ditandai dan baru diperbaiki setelah disetujui" width="100%" /></a>
 </td>
 <td valign="middle">
 <h3>DocxLint</h3>
@@ -49,21 +58,10 @@
 <p><a href="https://docxlint-id.streamlit.app">Demo live</a> · <a href="https://github.com/kurniawan-Donn/docxlint-app">Repository →</a></p>
 </td>
 </tr>
-<tr>
-<td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/metadata-remover-streamlit"><img src="./assets/project-metadata.svg" alt="Metadata Remover: metadata GPS, pembuat, dan perangkat dihapus dari file" width="100%" /></a>
-</td>
-<td valign="middle">
-<h3>Metadata Remover</h3>
-<p>Menemukan dan menghapus metadata sensitif seperti lokasi GPS, nama pembuat, dan info perangkat dari file sebelum dibagikan.</p>
-<p><code>Python</code> <code>Streamlit</code></p>
-<p><a href="https://metadata-remover-app-dk.streamlit.app">Demo live</a> · <a href="https://github.com/kurniawan-Donn/metadata-remover-streamlit">Repository →</a></p>
-</td>
-</tr>
 </table>
 
 <p align="center">
-  <sub>Lainnya di GitHub: <a href="https://xuping-afa.my.id/">Xuping Afa</a> (toko Laravel) · <a href="https://github.com/kurniawan-Donn/LumiNote">LumiNote</a> (Android) · <a href="https://github.com/kurniawan-Donn/Spinly-Android-Beta">Spinly</a> (Android, Firebase) · <a href="https://github.com/kurniawan-Donn/FItQuest_Android-Beta">FitQuest</a> (Android, beta)</sub>
+  <sub>Lainnya di GitHub: <a href="https://github.com/kurniawan-Donn/Metadata-Remover">Metadata Remover</a> (Python, <a href="https://metadata-remover-app-dk.streamlit.app">demo live</a>) · <a href="https://xuping-afa.my.id/">Xuping Afa</a> (toko Laravel) · <a href="https://github.com/kurniawan-Donn/LumiNote">LumiNote</a> (Android) · <a href="https://github.com/kurniawan-Donn/Spinly-Android-Beta">Spinly</a> (Android, Firebase) · <a href="https://github.com/kurniawan-Donn/FItQuest_Android-Beta">FitQuest</a> (Android, beta)</sub>
 </p>
 
 ## 🧰 Tech Stack
@@ -75,7 +73,7 @@
 </tr>
 <tr>
 <td><b>Tools Pengembangan</b></td>
-<td><img src="https://skillicons.dev/icons?i=laravel,fastapi,androidstudio,firebase,mysql,git,github,vscode,figma&theme=dark" alt="Laravel, FastAPI, Android Studio, Firebase, MySQL, Git, GitHub, VS Code, Figma" height="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,tailwind,fastapi,androidstudio,firebase,mysql,git,github,vscode,figma&theme=dark" alt="Laravel, Tailwind CSS, FastAPI, Android Studio, Firebase, MySQL, Git, GitHub, VS Code, Figma" height="40" /></td>
 </tr>
 <tr>
 <td><b>Audit TI &amp; Keamanan</b></td>

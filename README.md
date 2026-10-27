@@ -10,9 +10,7 @@
 
 <sub>**English** · [Bahasa Indonesia](./README.id.md)</sub>
 
-<img src="./assets/banner.svg" alt="Dony Kurniawan — IT Audit, IT Governance, Cybersecurity. Secure by Design. Auditable by Default." width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=520&height=32&lines=IT+audit+enthusiast;Python+tool+builder;Cybersecurity+learner" alt="IT audit enthusiast · Python tool builder · Cybersecurity learner" height="32" />
+<img src="./assets/banner.svg" alt="Dony Kurniawan — IT audit enthusiast, Python tool builder, cybersecurity learner. IT Audit, IT Governance, Cybersecurity. Secure by Design. Auditable by Default." width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-11151B?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portofoli-dony.vercel.app)
 [![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-11151B?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/kurniawan-Donn?tab=repositories)
@@ -32,18 +30,29 @@
 <table>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/regulation-audit-assistant"><img src="./assets/project-raa.svg" alt="Regulation Audit Assistant: a regulation turned into an audit working paper" width="100%" /></a>
+<a href="https://github.com/kurniawan-Donn/Regulation-Audit-Assistant"><img src="./assets/project-raa.svg" alt="Regulation Audit Assistant: a regulation is read and turned into an audit working paper whose items get checked" width="100%" /></a>
 </td>
 <td valign="middle">
 <h3>Regulation Audit Assistant</h3>
 <p>Turns Indonesian banking regulations into IT audit working papers. AI-assisted, with every article reference checked against the source.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>Gemini API</code></p>
-<p><a href="https://github.com/kurniawan-Donn/regulation-audit-assistant">Repository →</a></p>
+<p><a href="https://github.com/kurniawan-Donn/Regulation-Audit-Assistant">Repository →</a></p>
 </td>
 </tr>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/docxlint-app"><img src="./assets/project-docxlint.svg" alt="DocxLint: a Word document with a flagged spelling mistake and an approved correction" width="100%" /></a>
+<a href="https://github.com/kurniawan-Donn/pilara-pitsi"><img src="./assets/project-pilara.svg" alt="PILARA: logbook entries are approved and every action is recorded in an activity log" width="100%" /></a>
+</td>
+<td valign="middle">
+<h3>PILARA</h3>
+<p>Internship management system for PT Pilar Teknotama Sinergi: registration, daily logbooks, attendance, and assessment. Built with role-based access, an activity log, and verifiable letters.</p>
+<p><code>Laravel</code> <code>PHP</code> <code>Tailwind CSS</code></p>
+<p><a href="https://github.com/kurniawan-Donn/pilara-pitsi">Repository →</a></p>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://github.com/kurniawan-Donn/docxlint-app"><img src="./assets/project-docxlint.svg" alt="DocxLint: a misspelled word is flagged and fixed only after approval" width="100%" /></a>
 </td>
 <td valign="middle">
 <h3>DocxLint</h3>
@@ -52,21 +61,10 @@
 <p><a href="https://docxlint-id.streamlit.app">Live demo</a> · <a href="https://github.com/kurniawan-Donn/docxlint-app">Repository →</a></p>
 </td>
 </tr>
-<tr>
-<td width="38%" valign="middle">
-<a href="https://github.com/kurniawan-Donn/metadata-remover-streamlit"><img src="./assets/project-metadata.svg" alt="Metadata Remover: GPS, author, and device metadata removed from a file" width="100%" /></a>
-</td>
-<td valign="middle">
-<h3>Metadata Remover</h3>
-<p>Finds and strips sensitive metadata such as GPS location, author, and device details from files before they are shared.</p>
-<p><code>Python</code> <code>Streamlit</code></p>
-<p><a href="https://metadata-remover-app-dk.streamlit.app">Live demo</a> · <a href="https://github.com/kurniawan-Donn/metadata-remover-streamlit">Repository →</a></p>
-</td>
-</tr>
 </table>
 
 <p align="center">
-  <sub>More on GitHub: <a href="https://xuping-afa.my.id/">Xuping Afa</a> (Laravel store) · <a href="https://github.com/kurniawan-Donn/LumiNote">LumiNote</a> (Android) · <a href="https://github.com/kurniawan-Donn/Spinly-Android-Beta">Spinly</a> (Android, Firebase) · <a href="https://github.com/kurniawan-Donn/FItQuest_Android-Beta">FitQuest</a> (Android, beta)</sub>
+  <sub>More on GitHub: <a href="https://github.com/kurniawan-Donn/Metadata-Remover">Metadata Remover</a> (Python, <a href="https://metadata-remover-app-dk.streamlit.app">live demo</a>) · <a href="https://xuping-afa.my.id/">Xuping Afa</a> (Laravel store) · <a href="https://github.com/kurniawan-Donn/LumiNote">LumiNote</a> (Android) · <a href="https://github.com/kurniawan-Donn/Spinly-Android-Beta">Spinly</a> (Android, Firebase) · <a href="https://github.com/kurniawan-Donn/FItQuest_Android-Beta">FitQuest</a> (Android, beta)</sub>
 </p>
 
 ## 🧰 Tech Stack
@@ -78,7 +76,7 @@
 </tr>
 <tr>
 <td><b>Development Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=laravel,fastapi,androidstudio,firebase,mysql,git,github,vscode,figma&theme=dark" alt="Laravel, FastAPI, Android Studio, Firebase, MySQL, Git, GitHub, VS Code, Figma" height="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,tailwind,fastapi,androidstudio,firebase,mysql,git,github,vscode,figma&theme=dark" alt="Laravel, Tailwind CSS, FastAPI, Android Studio, Firebase, MySQL, Git, GitHub, VS Code, Figma" height="40" /></td>
 </tr>
 <tr>
 <td><b>IT Audit &amp; Security</b></td>
